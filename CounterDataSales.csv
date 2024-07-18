@@ -1,0 +1,31 @@
+﻿Counter_ID,Total_Price,Fulfillment_Name,Payment_Type,Emp_ID
+1,250,Pickup,Credit Card,11
+2,300,Delivery,Cash,12
+3,150,Dine-In,Credit Card,13
+4,200,Delivery,Debit Card,14
+5,400,Dine-In,Cash,5
+6,350,Delivery,Credit Card,10
+7,275,Pickup,Debit Card,11
+8,225,Dine-In,Cash,12
+9,175,Pickup,Credit Card,13
+10,325,Delivery,Debit Card,14
+11,250,Pickup,Cash,11
+12,300,Delivery,Credit Card,12
+13,150,Pickup,Debit Card,13
+14,200,Delivery,Cash,14
+15,400,Pickup,Credit Card,5
+16,350,Delivery,Debit Card,10
+17,275,Pickup,Cash,11
+18,225,Dine-In,Credit Card,12
+19,175,Dine-In,Debit Card,13
+20,325,Delivery,Cash,14
+21,250,Pickup,Credit Card,11
+22,300,Delivery,Debit Card,12
+23,150,Pickup,Cash,13
+24,200,Dine-in,Credit Card,14
+25,400,Pickup,Debit Card,5
+26,350,Delivery,Cash,10
+27,275,Pickup,Credit Card,11
+28,225,Delivery,Debit Card,12
+29,175,Pickup,Cash,13
+30,325,Delivery,Credit Card,14
