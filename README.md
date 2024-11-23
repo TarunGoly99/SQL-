@@ -1,9 +1,9 @@
 # Restaurant SQL Database
-## Biryani POT Schema
+## Restaurant Schema
 
 ### Overview
 
-The `BiryaniPot` database is designed to manage the operations of a restaurant, including employee management, menu categorization, order handling, and kitchen operations. The database schema includes the following tables:
+The `Restaurant` database is designed to manage the operations of a restaurant, including employee management, menu categorization, order handling, and kitchen operations. The database schema includes the following tables:
 - `Employees`
 - `Kitchen`
 - `Menu`
@@ -75,10 +75,4 @@ The `Counters` table records the transactions and orders managed by the restaura
 - **Menu and Categories:** The `Menu_ID` in the `Categories` table references the `Menu_ID` in the `Menu` table to list items under each menu category.
 - **Employees and Counters:** The `Emp_ID` in the `Counters` table references the `Emp_ID` in the `Employees` table to record which employee handled each transaction.
 
-## Example Queries
 
-### Query 1: List all employees and their assigned stations
-
-```sql
-SELECT e.Emp_Name, e.Station_Name
-FROM BiryaniPot.Employees e;
